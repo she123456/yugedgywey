@@ -1,0 +1,457 @@
+			.main {
+				width: 100%;
+				height: 1030px;
+				border: 0px solid black;
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				
+			}
+			.content1_2{
+				width: 1360px;
+				height: 90px;
+				background-color: transparent;
+				float: left;
+				margin-left: 120px;
+				margin-top: 25px;
+				position: absolute;
+				margin-right: -400px;
+			}
+			.content1_2_1{
+				width: 60px;
+				height: 60px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 20px;
+				
+			}
+			.content1_2_2{
+				width: 160px;
+				height: 70px;
+				background-color:transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 0px;
+				padding:0px;
+				
+			}
+			.content1_3{
+				width: 820px;
+				height: 90px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 25px;
+			}
+			.content1_4{
+				width: 100px;
+				height: 82px;
+				background-color:transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 15px;
+				border-bottom: 2px solid #fb6c6d;
+			}
+			.content1_4_1{
+				width: 30px;
+				height: 33px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 35px;
+			}
+			.content1_4_2{
+				width: 70px;
+				height: 43px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 41px;
+			}
+			.content1_4_0{
+				width: 40px;
+				height: 82px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 15px;
+				border-bottom: 2px transparent;
+			}
+			.content1_5{
+				width: 100px;
+				height: 82px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 15px;
+			}
+			.content1_5_0{
+				width: 40px;
+				height: 82px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 15px;
+				border-bottom: 2px transparent;
+			}
+			.content1_5_1{
+				width: 30px;
+				height: 33px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 35px;
+			}
+			.content1_5_2{
+				width: 70px;
+				height: 43px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 25px;
+			}
+			.content1_6{
+				width: 100px;
+				height: 82px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 15px;
+			}
+			.content1_6_1{
+				width: 30px;
+				height: 33px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 35px;
+			}
+			.content1_6_2{
+				width: 70px;
+				height: 43px;
+				background-color: transparent;
+				float: left;
+				margin-left: 0px;
+				margin-top: 25px;
+			}
+			
+			.content1_1 {
+				width: 1260px;
+				height: 90px;
+				border: 0px solid black;
+				 
+				top: 0px;
+				left: 0px;
+				float:left;
+				visibility: hidden;
+			}
+			
+			.content2 {
+				width: 1260px;
+				height: 330px;
+				border: 0px solid black;
+				background-color: transparent;
+				top: 0px;
+				left: 0px;
+				float: left;
+			}
+			
+			.content2_1 {
+				width: 200px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_2 {
+				width: 170px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_4_1 {
+				width: 150px;
+				height: 150px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+			}
+			.content2_4_2 {
+				width: 150px;
+				height: 40px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+				
+			}
+			.content2_4_2_1 {
+				width: 150px;
+				height: 40px;
+				background-color:transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+			}
+			.content2_3 {
+				width: 100px;
+				height: 330px;
+				background-color:transparent;
+				float: left;
+			}
+			.content2_3_1 {
+				width: 170px;
+				height: 150px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+			}
+			.content2_3_2 {
+				width: 170px;
+				height: 40px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+				
+			}
+			.content2_3_2_1 {
+				width: 170px;
+				height: 40px;
+				background-color:transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+			}
+			.content2_4 {
+				width: 150px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			
+			.content2_5 {
+				width: 100px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_6 {
+				width: 170px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_6_1 {
+				width: 170px;
+				height: 150px;
+				background-color:transparent;
+				float: left;
+				margin-bottom: 0px;
+			}
+			.content2_6_2 {
+				width: 170px;
+				height: 40px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+				
+			}
+			.content2_6_2_1 {
+				width: 170px;
+				height: 40px;
+				background-color:transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+			}
+			.content2_7 {
+				width: 100px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_8 {
+				width: 200px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			.content2_8_1 {
+				width: 170px;
+				height: 150px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+			}
+			.content2_8_2 {
+				width: 170px;
+				height: 40px;
+				background-color: transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+				
+			}
+			.content2_8_2_1 {
+				width: 170px;
+				height: 40px;
+				background-color:transparent;
+				float: left;
+				margin-bottom: 0px;
+				padding:0px;
+			}
+			.content2_9 {
+				width: 69px;
+				height: 330px;
+				background-color: transparent;
+				float: left;
+			}
+			
+			.footer {
+				width: 1260px;
+				height: 80px;
+				border: 0px solid black;
+				background-color:#efefef;
+				float: left;
+				align-content: center;
+			}
+			.font{
+				margin-top: 0px;
+				
+			}
+			.cont{
+				width: 1260px;
+				height:420px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left{
+				width: 760px;
+				height:420px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left_top{
+				width: 760px;
+				height:50px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left_left{
+				width: 180px;
+				height:390px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left_1{
+				width: 580px;
+				height:130px;
+				background-color: transparent;
+				float:left;
+			}
+			
+			.c1{
+				width: 580px;
+				height:65px;
+				background-color: transparent;
+				float:left;
+			}
+			.c2{
+				width: 580px;
+				height:65px;
+				background-color: transparent;
+				float:left;
+				margin-top: -40px;
+			}
+			.cont_left_1_1{
+				width: 150px;
+				height:65px;
+				background-color:transparent;
+				float:left;
+				margin-top: -48px;
+			}
+			.cont_left_1_2{
+				width: 20px;
+				height:65px;
+				background-color:transparent;
+				float:left;
+			}
+			.cont_left_1_3{
+				width: 150px;
+				height:65px;
+				background-color:transparent;
+				float:left;
+			}
+			.cont_left_1_4{
+				width: 20px;
+				height:65px;
+				background-color:transparent;
+				float:left;
+			}
+			.cont_left_1_5{
+				width: 150px;
+				height:65px;
+				background-color:transparent;
+				float:left;
+			}
+			.cont_left_2{
+				width: 580px;
+				height:130px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left_2_1{
+				width: 300px;
+				height:130px;
+				background-color: #FB6C6D;
+				float:left;
+				border-radius: 15px;
+				
+			}
+			.cont_left_2_2{
+				width: 30px;
+				height:130px;
+				background-color: transparent;
+				float:left;
+			}
+			.cont_left_2_3{
+				width: 250px;
+				height:130px;
+				background-color: transparent;
+				
+				
+				float:left;
+			}
+			.cont_left_3{
+				width: 580px;
+				height:130px;
+				background-color: transparent;
+				float:left;
+			}
+
+			.cont_right{
+				width: 500px;
+				height:420px;
+				background-color: transparent;
+				float:left;
+			}
+			
+			.cont_right_left{
+				width: 312px;
+				height:416px;
+				overflow: hidden;
+				float:left;
+				background: url(../img/手机样板1.png);
+				background-size:285px;
+			}
+			.bete{
+				width: 100px;
+				height: 30px;
+				margin:auto;
+				background-color:#FB6C6D;
+				margin-top: 21px;
+				border-radius:7px;
+			}
+			
